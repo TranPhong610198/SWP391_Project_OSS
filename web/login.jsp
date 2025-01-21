@@ -196,7 +196,7 @@
         </form>
 
         <div class="register-link">
-            Chưa có tài khoản? <a href="register.html">Đăng ký ngay</a>
+            Chưa có tài khoản? <a href="register.jsp">Đăng ký ngay</a>
         </div>
     </div>
 </body>
