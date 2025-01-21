@@ -1,4 +1,4 @@
-# SWP391_Project
+# SWP391_Project - Dự án này dead rồi
 Online shopping system
 
 ## Danh Sách Thành Viên Group 3
